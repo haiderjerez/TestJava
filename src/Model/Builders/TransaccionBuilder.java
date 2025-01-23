@@ -1,2 +1,4 @@
-package Model.Builders;public class TransaccionBuilder {
+package Model.Builders;
+
+public class TransaccionBuilder {
 }

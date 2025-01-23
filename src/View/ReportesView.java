@@ -1,2 +1,4 @@
-package View;public class ReportesView {
+package View;
+
+public class ReportesView {
 }

@@ -1,2 +1,4 @@
-package Model.Builders;public class ChequeBuilder {
+package Model.Builders;
+
+public class ChequeBuilder {
 }

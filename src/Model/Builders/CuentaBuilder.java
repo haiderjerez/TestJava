@@ -1,2 +1,4 @@
-package Model.Builders;public class CuentaBuilder {
+package Model.Builders;
+
+public class CuentaBuilder {
 }

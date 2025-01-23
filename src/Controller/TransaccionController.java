@@ -1,2 +1,4 @@
-package Controller;public class TransaccionController {
+package Controller;
+
+public class TransaccionController {
 }

@@ -1,2 +1,4 @@
-package Controller;public class CuentaController {
+package Controller;
+
+public class CuentaController {
 }
