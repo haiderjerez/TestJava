@@ -7,7 +7,7 @@ DROP DATABASE IF EXISTS banco_union;
 CREATE DATABASE banco_union;
 USE banco_union;
 
--- Tabla Clientes xd
+-- Tabla Clientes 
 DROP TABLE IF EXISTS Clientes;
 CREATE TABLE Clientes (
     id INT AUTO_INCREMENT PRIMARY KEY,
